@@ -74,3 +74,5 @@ client will send numbers as packets to indicate state
 1 = NACK for window index 1
 
 ## Output
+
+![alt text](https://github.com/marwan475/UDP-emulator/blob/main/Screenshot%202025-01-21%20003359.png)
