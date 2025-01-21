@@ -26,7 +26,8 @@ ACK recv for current window state                                 │Frame recv:
 All frames sent                                                   │Both Frames recv sending ACK
 ^C                                                                │All Frames recieved exitingmam024@tux5:~/Documents/434/A2/cmpt434-group
 mam024@tux5:~/Documents/434/A2/cmpt434-group07/A2>                │mam024@tux5:~/Documents/434/A2/cmpt434-group07/A2>
-──────────────────────────────────────────────────────────────────┴───────────────────────────────────────────────────────────────────────Port A recieved a packet from Port: 30025
+──────────────────────────────────────────────────────────────────┴───────────────────────────────────────────────────────────────────────
+Port A recieved a packet from Port: 30025
 Packet added to Que to C
 Port A recieved a packet from Port: 30025
 Packet added to Que to C
